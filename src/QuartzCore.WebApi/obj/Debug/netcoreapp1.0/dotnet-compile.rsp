@@ -1,5 +1,5 @@
---temp-output:C:\Users\tianwei\Desktop\QuartzCore.WebApi\src\QuartzCore.WebApi\obj\Debug\netcoreapp1.0\
---out:C:\Users\tianwei\Desktop\QuartzCore.WebApi\src\QuartzCore.WebApi\bin\Debug\netcoreapp1.0\QuartzCore.WebApi.dll
+--temp-output:E:\Documents\Github\hantianwei\QuartzCore\src\QuartzCore.WebApi\obj\Debug\netcoreapp1.0\
+--out:E:\Documents\Github\hantianwei\QuartzCore\src\QuartzCore.WebApi\bin\Debug\netcoreapp1.0\QuartzCore.WebApi.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -174,9 +174,12 @@
 --reference:C:\Users\tianwei\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
 --reference:C:\Users\tianwei\.nuget\packages\System.Xml.XmlDocument\4.0.1\ref\netstandard1.3\System.Xml.XmlDocument.dll
 --reference:C:\Users\tianwei\.nuget\packages\System.Xml.XmlSerializer\4.0.11\ref\netstandard1.3\System.Xml.XmlSerializer.dll
---reference:C:\Users\tianwei\Desktop\QuartzCore.WebApi\src\Quartz\bin\Debug\netstandard1.6\Quartz.dll
---resource:"C:\Users\tianwei\Desktop\QuartzCore.WebApi\src\QuartzCore.WebApi\obj\Debug\netcoreapp1.0\QuartzCore.WebApidotnet-compile.deps.json",QuartzCore.WebApi.deps.json
-C:\Users\tianwei\Desktop\QuartzCore.WebApi\src\QuartzCore.WebApi\Config.cs
-C:\Users\tianwei\Desktop\QuartzCore.WebApi\src\QuartzCore.WebApi\Program.cs
-C:\Users\tianwei\Desktop\QuartzCore.WebApi\src\QuartzCore.WebApi\Startup.cs
-C:\Users\tianwei\Desktop\QuartzCore.WebApi\src\QuartzCore.WebApi\Controllers\ValuesController.cs
+--reference:E:\Documents\Github\hantianwei\QuartzCore\src\Quartz\bin\Debug\netstandard1.6\Quartz.dll
+--resource:"E:\Documents\Github\hantianwei\QuartzCore\src\QuartzCore.WebApi\obj\Debug\netcoreapp1.0\QuartzCore.WebApidotnet-compile.deps.json",QuartzCore.WebApi.deps.json
+E:\Documents\Github\hantianwei\QuartzCore\src\QuartzCore.WebApi\Config.cs
+E:\Documents\Github\hantianwei\QuartzCore\src\QuartzCore.WebApi\Program.cs
+E:\Documents\Github\hantianwei\QuartzCore\src\QuartzCore.WebApi\Startup.cs
+E:\Documents\Github\hantianwei\QuartzCore\src\QuartzCore.WebApi\Controllers\JobsController.cs
+E:\Documents\Github\hantianwei\QuartzCore\src\QuartzCore.WebApi\Controllers\ValuesController.cs
+E:\Documents\Github\hantianwei\QuartzCore\src\QuartzCore.WebApi\Models\JobDetailModel.cs
+E:\Documents\Github\hantianwei\QuartzCore\src\QuartzCore.WebApi\Utility\AuthorizeFilter.cs
