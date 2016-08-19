@@ -1,13 +1,12 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc;
+using Quartz;
+using Quartz.Impl;
+using QuartzCore.WebApi.Models;
+using QuartzCore.WebApi.Utility;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Quartz;
-using Quartz.Impl;
-using Quartz.Util;
-using QuartzCore.WebApi.Utility;
-using QuartzCore.WebApi.Models;
 
 namespace QuartzCore.WebApi.Controllers
 {

@@ -1,9 +1,5 @@
 ﻿using Quartz;
 using Quartz.Util;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace QuartzCore.WebApi.Models
 {
